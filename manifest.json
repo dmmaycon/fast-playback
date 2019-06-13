@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "name": "Fast Playback",
+    "description": "Watch and listen to things faster in the browser",
+    "author": "Maycon de Moraes",
+    "permissions": [
+        "tabs"
+    ],
+    "browser_action": {
+   	 "default_title": "Fast Playback",
+   	 "default_popup": "index.html",
+   	 "default_icon": "icon.png"
+    }
+}

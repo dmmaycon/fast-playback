@@ -1,0 +1,11 @@
+.app {
+    height: 350px;
+    width:  350px;
+    background-color: #FFB74D;
+}
+
+.titulo {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16pt;
+    color: black;
+}
